@@ -17,7 +17,7 @@ pip install flake8-pyspark-cache
 
 | Code   | Description          |
 |--------|----------------------|
-| PS0002 | do not use cache() |
+| PS002 | do not use cache() |
 
 ## rationale
 
